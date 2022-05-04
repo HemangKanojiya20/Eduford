@@ -1,0 +1,8 @@
+what is section in html?
+vh ,px , % and etc...
+position?
+background?
+nav tag
+display:flex
+justify content
+align items
